@@ -9,7 +9,7 @@
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/liuzh368/GA-LLM.git
+git clone https://github.com/hugh2009hugh/GA-LLM.git
 cd GA-LLM
 ```
 
